@@ -1,9 +1,9 @@
 /* Markdown */
 :root{
---maincolor: red;
---bordercl:rebeccapurple;
+--maincolor: black;
+--bordercl:gold;
 --callouctcolor:dodgerblue;
---hovercolor:navy;
+--hovercolor:grey;
 --darkMaincolor: #50fa7b;
 }
 html {
